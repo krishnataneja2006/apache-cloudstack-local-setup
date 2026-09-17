@@ -29,7 +29,7 @@
     </parent>
     <properties>
         <spring-cloud.version>2021.0.7</spring-cloud.version>
-        <openfeign.version>11.0</openfeign.version>
+        <openfeign.version>13.15</openfeign.version>
         <httpclient.version>4.5.14</httpclient.version>
         <swagger-annotations.version>1.6.2</swagger-annotations.version>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
